@@ -113,6 +113,59 @@ cursor: pointer;
   text-decoration: none;
   color: white;
 }
-
-
 /*  header backroud styles end  */
+
+/* main block styles starts */
+#main-block{
+  
+  border: none;
+position: absolute;
+width: 1000px;
+height: 1000px;
+left: 80px;
+right:0px;
+top: 800px;
+bottom: 1500px;
+/* Auto layout */ 
+ /* display: flex;
+flex-direction: row;
+justify-content: flex-start; */
+align-items: center;
+text-align: center;
+padding: 70px 90px 70px 90px;
+}
+
+#main-block p{
+  margin-top: 15px;
+  width: fit-content;
+}
+#main-block .frist{
+  display: flex;
+  margin: 30px;
+  padding: 20px 20px;
+  text-align: left;
+  border: 1px white;
+  border-radius: 5px;
+}
+#main-block .frist p{
+  font-size: 14px;
+  opacity: 0.7;
+  text-align: justify;
+  width: 80%;
+}
+ #main-block .frist button{
+  margin-top: 30px;
+  padding: 10px 30px;
+
+ }
+#main-block .frist button a{
+  text-decoration: none;
+  color: black;
+  opacity: 0.7;
+}
+
+#main-block .second{
+  display: flex;
+}
+
+/* main block styles end */
