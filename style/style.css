@@ -166,6 +166,7 @@ padding: 70px 90px 70px 90px;
   display: flex;
 }
 /* 2nd part */
+
 #My-Inspiration{
   margin-top: 1900px;
   position: absolute;
@@ -182,7 +183,7 @@ text-align: center;
 #My-Inspiration p{
   margin-top: 30px;
   font-size: 15px;
-  flex: ;
+ 
   
 }
 #My-Inspiration iframe{
