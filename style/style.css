@@ -14,7 +14,7 @@ body{
 #Navigation{
   display: flex;
  margin: 0 auto;
-  border: 2px solid;
+  /* border: 2px solid; */
   justify-content: space-between;
   align-items: center;
   height: 100px;
@@ -80,7 +80,7 @@ align-items: center;
 padding-top: 60px;
 padding-bottom: 0px;
 align-items: center;
-border: solid 2px;
+/* border: solid 2px; */
 }
 #bg-img .background-description p{
   margin-top: 20px;
@@ -128,7 +128,7 @@ main{
 align-items: center;
 }
 #main-block{
-  border: 2px solid;
+  /* border: 2px solid; */
 /* position: absolute; */
 margin: 0 auto;
 width: 1000px;
@@ -181,7 +181,7 @@ padding: 70px 90px 70px 90px;
 /* 2nd part */
 
 #My-Inspiration{
-  border: 2px solid;
+  /* border: 2px solid; */
   margin: 0 auto;
   width: 1000px;
   height: 600px;
@@ -267,7 +267,7 @@ padding: 30px 30px;
 }
   #support{
      
-    border: 2px solid;
+    /* border: 2px solid; */
   margin: 0 auto;
     width: 1000px;
    height: 300px;
